@@ -1,4 +1,4 @@
-# Local proto file resolver for github.com/bufbuild/protocompile
+# Local proto file resolver for github.com/bufbuild/protocompile [![Go Reference](https://pkg.go.dev/badge/github.com/k1LoW/protoresolv.svg)](https://pkg.go.dev/github.com/k1LoW/protoresolv) [![build](https://github.com/k1LoW/protoresolv/actions/workflows/ci.yml/badge.svg)](https://github.com/k1LoW/protoresolv/actions/workflows/ci.yml) ![Coverage](https://raw.githubusercontent.com/k1LoW/octocovs/main/badges/k1LoW/protoresolv/coverage.svg) ![Code to Test Ratio](https://raw.githubusercontent.com/k1LoW/octocovs/main/badges/k1LoW/protoresolv/ratio.svg) ![Test Execution Time](https://raw.githubusercontent.com/k1LoW/octocovs/main/badges/k1LoW/protoresolv/time.svg)
 
 ## Usage
 
