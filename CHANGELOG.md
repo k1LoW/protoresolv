@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.1.3](https://github.com/k1LoW/protoresolv/compare/v0.1.2...v0.1.3) - 2024-12-23
+### Other Changes
+- chore(deps): bump google.golang.org/protobuf from 1.35.2 to 1.36.0 in the dependencies group by @dependabot in https://github.com/k1LoW/protoresolv/pull/11
+
 ## [v0.1.2](https://github.com/k1LoW/protoresolv/compare/v0.1.1...v0.1.2) - 2024-11-25
 ### Other Changes
 - chore(deps): bump the dependencies group across 1 directory with 2 updates by @dependabot in https://github.com/k1LoW/protoresolv/pull/9
