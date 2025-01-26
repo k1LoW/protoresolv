@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.1.6](https://github.com/k1LoW/protoresolv/compare/v0.1.5...v0.1.6) - 2025-01-26
+### Other Changes
+- chore(deps): bump google.golang.org/protobuf from 1.36.3 to 1.36.4 in the dependencies group by @dependabot in https://github.com/k1LoW/protoresolv/pull/18
+
 ## [v0.1.5](https://github.com/k1LoW/protoresolv/compare/v0.1.4...v0.1.5) - 2025-01-20
 ### Other Changes
 - chore(deps): bump google.golang.org/protobuf from 1.36.1 to 1.36.3 in the dependencies group across 1 directory by @dependabot in https://github.com/k1LoW/protoresolv/pull/16
