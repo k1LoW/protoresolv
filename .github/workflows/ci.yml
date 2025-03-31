@@ -25,7 +25,7 @@ jobs:
       - name: Run lint
         uses: reviewdog/action-golangci-lint@v2
         with:
-          fail_on_error: true
+          fail_level: warning
           go_version: '${{ steps.setup-go.outputs.go-version }}'
           golangci_lint_flags: --timeout=5m        
 
