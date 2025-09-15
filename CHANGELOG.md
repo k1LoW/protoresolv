@@ -1,5 +1,13 @@
 # Changelog
 
+## [v0.1.8](https://github.com/k1LoW/protoresolv/compare/v0.1.7...v0.1.8) - 2025-09-15
+### Other Changes
+- chore(deps): bump google.golang.org/protobuf from 1.36.6 to 1.36.7 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/protoresolv/pull/23
+- chore(deps): bump actions/checkout from 4 to 5 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/protoresolv/pull/25
+- chore(deps): bump google.golang.org/protobuf from 1.36.7 to 1.36.8 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/protoresolv/pull/26
+- chore(deps): bump actions/setup-go from 5 to 6 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/protoresolv/pull/27
+- chore(deps): bump google.golang.org/protobuf from 1.36.8 to 1.36.9 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/protoresolv/pull/28
+
 ## [v0.1.7](https://github.com/k1LoW/protoresolv/compare/v0.1.6...v0.1.7) - 2025-03-31
 ### Other Changes
 - chore(deps): bump google.golang.org/protobuf from 1.36.4 to 1.36.5 in the dependencies group by @dependabot in https://github.com/k1LoW/protoresolv/pull/20
