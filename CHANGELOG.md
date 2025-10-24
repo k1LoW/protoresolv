@@ -1,5 +1,10 @@
 # Changelog
 
+## [v0.1.9](https://github.com/k1LoW/protoresolv/compare/v0.1.8...v0.1.9) - 2025-10-24
+### Other Changes
+- chore: setup tagpr labels by @k1LoW in https://github.com/k1LoW/protoresolv/pull/30
+- chore(deps): bump google.golang.org/protobuf from 1.36.9 to 1.36.10 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/protoresolv/pull/29
+
 ## [v0.1.8](https://github.com/k1LoW/protoresolv/compare/v0.1.7...v0.1.8) - 2025-09-15
 ### Other Changes
 - chore(deps): bump google.golang.org/protobuf from 1.36.6 to 1.36.7 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/protoresolv/pull/23
